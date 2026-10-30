@@ -11,7 +11,7 @@ Tugas Workshop Deep Learning — Teknik Telekomunikasi ITERA.
 | Ketua | M.Rifky | 124400033 |
 
 - **Kelas:** [RA / RB]
-- **Lokasi kelompok:** [kode] — [nama lokasi] (digit terakhir NIM terkecil)
+- **Lokasi kelompok:** [kode] — [Stadio San Siro] (3)
 - **Laporan:** [`laporan-latex/main.pdf` atau `laporan-typst/main.pdf`]
 
 ## Cara Menjalankan
