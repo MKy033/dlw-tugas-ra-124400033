@@ -8,9 +8,7 @@ Tugas Workshop Deep Learning — Teknik Telekomunikasi ITERA.
 
 | Peran | Nama | NIM |
 |---|---|---|
-| Ketua | [Nama Lengkap] | [NIM] |
-| Anggota | [Nama Lengkap] | [NIM] |
-| Anggota | [Nama Lengkap] | [NIM] |
+| Ketua | M.Rifky | 124400033 |
 
 - **Kelas:** [RA / RB]
 - **Lokasi kelompok:** [kode] — [nama lokasi] (digit terakhir NIM terkecil)
